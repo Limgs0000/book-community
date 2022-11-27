@@ -1,0 +1,5 @@
+### 테스트
+GET http://localhost:9999/
+
+### 유저 정보 조회
+GET http://localhost:9999/users/user-info/
